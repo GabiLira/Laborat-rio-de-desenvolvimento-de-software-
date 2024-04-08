@@ -1,1 +1,1 @@
-# Laborat-rio-de-desenvolvimento-de-software-
+# Laboratorio-de-desenvolvimento-de-software-
