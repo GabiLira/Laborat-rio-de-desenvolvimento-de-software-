@@ -24,3 +24,30 @@
 - Elaboração dos diagramas da solução de backend usando o padrão **C4 Model** em PlantUML.
 - Implementação do banco de dados.
 - Documentação dos endpoints utilizando **Swagger**.
+
+### Semana 5
+- Desenvolvimento do código.
+- Criação do Dockerfile.
+- Criação do banco de dados no Render.
+- Criação do WebService no Render.
+- Deploy no Render e dockerização.
+  
+### Semana 6
+- Criação dos Testes de Integração.
+  
+### Commit semana 7
+- Criação de Testes Unitários.
+  
+### Semana 8
+- Atualização dos Testes de Integração.
+- Criação da tag "EntregaLab3".
+- Criação dos Diagramas de Sequência.
+  
+### Semana 9
+- Merge das branches.
+- Criação da aplicação React.js online.
+  
+### Semana 10
+- Correção do front-end da aplicação React.js online.
+* Merge das branches.
+* Atualização do back-end da aplicação React.js online.
