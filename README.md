@@ -49,5 +49,9 @@
   
 ### Semana 10
 - Correção do front-end da aplicação React.js online.
-* Merge das branches.
-* Atualização do back-end da aplicação React.js online.
+- Merge das branches.
+- Atualização do back-end da aplicação React.js online.
+
+### Commit semana 11
+- Merge das branches.
+- Implementação das funcionalidades CRUD no React.js online.
